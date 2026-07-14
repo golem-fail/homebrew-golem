@@ -12,7 +12,7 @@ class Golem < Formula
   homepage "https://golem.fail"
   url "https://github.com/golem-fail/golem/releases/download/v0.8.1/golem-0.8.1-aarch64-apple-darwin.tar.gz"
   version "0.8.1"
-  sha256 "e9feda2f6e88d3bcb1e756c7892d2f7a572b48617360b7a0aeecb5d6291507d9"
+  sha256 "6770b297380e1a0a4517398348924815e551883bfa7eafc68be0446f2b83216a"
   # FSL-1.1-Apache-2.0 is source-available (converts to Apache-2.0 after 2y) and
   # is not an SPDX identifier, so it can't be represented as an SPDX license.
   license :cannot_represent
