@@ -10,9 +10,9 @@
 class Golem < Formula
   desc "Mobile UI testing framework"
   homepage "https://golem.fail"
-  url "https://github.com/golem-fail/golem/releases/download/v0.17.0/golem-0.17.0-aarch64-apple-darwin.tar.gz"
-  version "0.17.0"
-  sha256 "1bcb400b2eaea9f31eab101cea363eb8e4b2be6135c09a0478a41f3065dd3772"
+  url "https://github.com/golem-fail/golem/releases/download/v0.18.0/golem-0.18.0-aarch64-apple-darwin.tar.gz"
+  version "0.18.0"
+  sha256 "9c69f3b8329f1389c68695f5f6e123071418db4c6f6e9f5f29bdbf6709376973"
   # FSL-1.1-Apache-2.0 is source-available (converts to Apache-2.0 after 2y) and
   # is not an SPDX identifier, so it can't be represented as an SPDX license.
   license :cannot_represent
